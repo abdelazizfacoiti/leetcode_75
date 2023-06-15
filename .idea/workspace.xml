@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0999a70c-d8d7-4a5a-84ae-bcb728b717d6" name="Changes" comment="" />
+    <list default="true" id="0999a70c-d8d7-4a5a-84ae-bcb728b717d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/array_string/N_2_1071_Greatest_Common_Divisor_Of_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -83,6 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1686748661466</updated>
       <workItem from="1686748663022" duration="420000" />
+      <workItem from="1686779016938" duration="609000" />
+      <workItem from="1686869323624" duration="711000" />
     </task>
     <servers />
   </component>
